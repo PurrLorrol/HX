@@ -1,6 +1,6 @@
 # 我只是来修电脑的... 🔧
 
-> 一个关于“勇者”与“修电闸”的搞笑校园RPG
+> 一个关于“勇者”与“修电脑”的搞笑校园RPG
 
 🎮 **在线玩**：https://purrlorrol.github.io/HX/    https://hx-sigma.vercel.app/
 
