@@ -1,0 +1,14 @@
+[
+null,
+{"id":1,"expanded":true,"name":"学校 走廊","order":3,"parentId":2,"scrollX":1653,"scrollY":357.5,"quick":false},
+{"id":2,"expanded":true,"name":"学校","order":2,"parentId":0,"scrollX":550,"scrollY":1168.5,"quick":false},
+{"id":3,"expanded":true,"name":"学校 教室1","order":4,"parentId":1,"scrollX":489,"scrollY":592.5,"quick":false},
+{"id":4,"expanded":false,"name":"MAP004","order":1,"parentId":0,"scrollX":489,"scrollY":266.5,"quick":false},
+{"id":5,"expanded":true,"name":"学校体育馆","order":7,"parentId":1,"scrollX":497,"scrollY":276,"quick":false},
+{"id":6,"expanded":true,"name":"办公室 1楼","order":5,"parentId":1,"scrollX":750,"scrollY":324.5,"quick":false},
+{"id":7,"expanded":true,"name":"学校 走廊","order":8,"parentId":5,"scrollX":511,"scrollY":276.5,"quick":false},
+{"id":8,"expanded":true,"name":"学校天台","order":9,"parentId":1,"scrollX":558,"scrollY":693.5,"quick":false},
+{"id":9,"expanded":true,"name":"办公室 2楼","order":10,"parentId":8,"scrollX":670,"scrollY":869.5,"quick":false},
+{"id":10,"expanded":true,"name":"学校 教室1","order":11,"parentId":8,"scrollX":489,"scrollY":461,"quick":false},
+{"id":11,"expanded":true,"name":"办公室 2楼","order":6,"parentId":6,"scrollX":670,"scrollY":353.5,"quick":false}
+]

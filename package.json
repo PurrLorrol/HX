@@ -1,0 +1,12 @@
+{
+    "name": "rmmz-game",
+    "main": "index.html",
+    "chromium-args": "--force-color-profile=srgb --disable-devtools",
+    "window": {
+        "title": "我只是来修电脑的…",
+        "width": 900,
+        "height": 505,
+        "position": "center",
+        "icon": "icon/icon.png"
+    }
+}
